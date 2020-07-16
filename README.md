@@ -4,7 +4,9 @@
 
 ## Description
 Enter a description, value and chose a type (expense or income) for each item you want to list. 
+
 The app will calculate and show the percentage of each expense against all other expenses, and the percentage of your total expenses against your overall budget. 
+
 You can add and delete entries as much as you want. 
 
 
