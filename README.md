@@ -11,7 +11,7 @@ You can add and delete entries as much as you want.
 
 
 ## Setup/Installation
-To view the app, click https://codinggilm.github.io/Budget-App/ or copy (https://codinggilm.github.io/Budget-App/) to your browser and load it.
+To view the app, click https://codinggilm.github.io/Budget-App/ or copy https://codinggilm.github.io/Budget-App/ to your browser and load it.
 
 ## Technologies Used
 This app was built using pre-ES15 JavaScript syntax (on purpose). It is using an MCV architecture and Immediately Invoked Functions. 
